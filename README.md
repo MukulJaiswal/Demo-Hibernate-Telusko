@@ -5,11 +5,12 @@ Youtube telusko hibernate learning...
 ## Solution
 First Replace the MySQL dependency as given below
 
-<dependency>
+
+"<dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
     <version>5.1.44</version>
-</dependency>
+</dependency>"
 
 # An error showing "Authentication plugin 'caching_sha2_password'" will appear. Run this command:
 Run below command in mysql shell.
